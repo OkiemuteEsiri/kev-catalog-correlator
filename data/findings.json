@@ -1,0 +1,7 @@
+[
+  {"finding_id":"F-1001","asset_id":"WEB-001","cve":"CVE-2024-0001","cvss":9.8,"asset_criticality":5,"internet_exposed":true,"owner":"Digital Platforms","first_seen":"2026-04-01","remediation_status":"open"},
+  {"finding_id":"F-1002","asset_id":"APP-014","cve":"CVE-2023-1111","cvss":8.1,"asset_criticality":4,"internet_exposed":false,"owner":"Business Apps","first_seen":"2026-06-10","remediation_status":"open"},
+  {"finding_id":"F-1003","asset_id":"LAB-009","cve":"CVE-2022-2222","cvss":7.5,"asset_criticality":3,"internet_exposed":false,"owner":"Lab Systems","first_seen":"2026-07-15","remediation_status":"open"},
+  {"finding_id":"F-1004","asset_id":"API-002","cve":"CVE-2021-3333","cvss":9.1,"asset_criticality":5,"internet_exposed":true,"owner":"API Engineering","first_seen":"2026-02-20","remediation_status":"exception"},
+  {"finding_id":"F-1005","asset_id":"DEV-101","cve":"CVE-2020-4444","cvss":6.5,"asset_criticality":2,"internet_exposed":false,"owner":"Engineering","first_seen":"2026-08-01","remediation_status":"open"}
+]
