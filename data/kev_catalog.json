@@ -1,0 +1,5 @@
+[
+  {"cve":"CVE-2024-0001","vendor":"ExampleVendor","product":"Gateway","date_added":"2026-01-10","due_date":"2026-02-01","ransomware_use":true,"required_action":"Apply vendor remediation and validate exposure reduction."},
+  {"cve":"CVE-2023-1111","vendor":"ExampleSoft","product":"AppServer","date_added":"2026-03-05","due_date":"2026-04-01","ransomware_use":false,"required_action":"Patch affected systems and verify version state."},
+  {"cve":"CVE-2021-3333","vendor":"ExampleAPI","product":"API Gateway","date_added":"2026-02-15","due_date":"2026-03-01","ransomware_use":true,"required_action":"Remove vulnerable exposure, patch, and re-scan."}
+]
